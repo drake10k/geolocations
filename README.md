@@ -21,3 +21,4 @@ pip install git+https://github.com/drake10k/bar_chart_race.git
 ```
 pip install -r requirements.txt
 ```
+8. add your user agent (your e-mail recommended) inside [geolocations.py](geolocations.py)
