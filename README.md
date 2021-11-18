@@ -22,3 +22,10 @@ pip install git+https://github.com/drake10k/bar_chart_race.git
 pip install -r requirements.txt
 ```
 8. add your user agent (your e-mail recommended) inside [geolocations.py](geolocations.py)
+9. execute geolocations.py
+```
+python geolocations.py
+```
+
+## Output
+1. [countries.csv](data/countries.csv) - contains a list of all countries with their name, their alpha_2 and alpha_3 codes and their coordinates
